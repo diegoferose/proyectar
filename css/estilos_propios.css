@@ -1,0 +1,35 @@
+.user-panel{
+
+    height: 50px;
+
+}
+
+.user-panel > .info{
+
+    padding: 0;
+
+}
+
+.skin-blue .sidebar-menu > li.header{
+
+    color: #fff;
+
+    text-align: center;
+
+}
+
+.login-logo a, .register-logo a{
+    color: #fff;
+}
+
+.login-box-body, .register-box-body{
+    border-radius: 5px;
+}
+
+.navbar{
+    padding: 0 1rem;
+}
+
+.main-header .logo{
+    height: 53px;
+}
